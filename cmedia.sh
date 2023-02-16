@@ -17,3 +17,4 @@ done < consumos.txt
 mediaConsumo=$((totalConsumo/contador))
 
 echo "El consumo medio fue de $mediaConsumo"
+echo "$mediaConsumo"
